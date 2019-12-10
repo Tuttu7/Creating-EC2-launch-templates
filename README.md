@@ -15,4 +15,4 @@
 - Storage (volumes)
 - Instance tags 
 
-![Launch Template] lauanch.jpg
+![Launch Template](lauanch.jpg)
